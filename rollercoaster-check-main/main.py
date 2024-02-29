@@ -34,6 +34,7 @@ while running:
         print("Je voldoet niet aan de voorwaarden...")
         print(coasterimg.sad())
         time.sleep(2)
+        print("hello everyone, I am here now")
 
     result = input("Druk op Enter om nog een keer te checken, of X om te stoppen\n\n")
     if(result.upper() == "X"):
